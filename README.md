@@ -1,6 +1,10 @@
 # Chrome Dino enhanced
 Chrome Dino, but with enhancement that works for most browsers.
 
+
+## Originally Remade by: [yell0wsuit](https://github.com/yell0wsuit/chrome-dino-enhanced/)
+
+
 Also check out [Microsoft Edge's *Let's Surf*](https://github.com/yell0wsuit/ms-edge-letssurf), an offline game for Microsoft Edge.
 
 <p align="center">
